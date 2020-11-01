@@ -19,8 +19,8 @@
 }
 
 /*md 以下*/
-@media screen and (max-width:750px){
+@media screen and (max-width:1000px){
 	.profile-text{
-		padding:0 2%;
+		padding:0 5%;
 	}
 }
